@@ -1,0 +1,1349 @@
+fileFormatVersion: 2
+guid: fe976a4b1d969c342806e2250286c673
+timeCreated: 1513798832
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 3DGeom~1_Defintion_001
+    100002: ChamferBo1_001
+    100004: Colors_001
+    100006: Combilume _001
+    100008: Combilume _002
+    100010: Combilume _003
+    100012: Combilume _004
+    100014: Combilume _005
+    100016: Component#10_001
+    100018: Component#10_002
+    100020: Component#11_001
+    100022: Component#12_001
+    100024: Component#13_001
+    100026: Component#16_001
+    100028: Component#16_002
+    100030: Component#17_001
+    100032: Component#17_002
+    100034: Component#18_001
+    100036: Component#19_001
+    100038: Component#20_001
+    100040: Component#20_002
+    100042: Component#21_001
+    100044: Component#21_002
+    100046: Component#22_001
+    100048: Component#22_002
+    100050: Component#23_001
+    100052: Component#24_001
+    100054: Component#25_001
+    100056: Component#26_001
+    100058: Component#27_001
+    100060: Component#28_001
+    100062: Component#29_001
+    100064: Component#2_001
+    100066: Component#30_001
+    100068: Component#31_001
+    100070: Component#32_001
+    100072: Component#33_001
+    100074: Component#34_001
+    100076: Component#35_001
+    100078: Component#37_001
+    100080: Component#38_001
+    100082: Component#39_001
+    100084: Component#3_001
+    100086: Component#40_001
+    100088: Component#41_001
+    100090: Component#42_001
+    100092: Component#44_001
+    100094: Component#45_001
+    100096: Component#46_001
+    100098: Component#47_001
+    100100: Component#48_001
+    100102: Component#49_001
+    100104: Component#4_001
+    100106: Component#50_001
+    100108: Component#50_002
+    100110: Component#50_003
+    100112: Component#51_001
+    100114: Component#52_001
+    100116: Component#54_001
+    100118: Component#54_002
+    100120: Component#5_001
+    100122: Component#5_002
+    100124: Component#6_001
+    100126: Component#6_002
+    100128: Component#7_001
+    100130: Component#7_002
+    100132: Component#8_001
+    100134: Component#9_001
+    100136: Component#9_002
+    100138: Component#9_003
+    100140: Component#9_004
+    100142: Component#9_005
+    100144: Component_12_001
+    100146: Component_17_001
+    100148: Curtain_L0_001
+    100150: Cylinder10_001
+    100152: Cylinder116_001
+    100154: Cylinder116_002
+    100156: Cylinder116_003
+    100158: Cylinder116_004
+    100160: Cylinder11_001
+    100162: Cylinder12#1_001
+    100164: Cylinder12_001
+    100166: Cylinder12_002
+    100168: Cylinder12_003
+    100170: Cylinder12_004
+    100172: Cylinder13_001
+    100174: Cylinder14_001
+    100176: Cylinder15_001
+    100178: Cylinder16_001
+    100180: Cylinder18_001
+    100182: Cylinder18_002
+    100184: dolce_001
+    100186: dolce_002
+    100188: dolce_003
+    100190: enchufe_001
+    100192: enchufe_002
+    100194: enchufe_003
+    100196: enchufe_004
+    100198: enchufe_005
+    100200: fig_001
+    100202: Frank Lloyd Wrig_001
+    100204: Group_001
+    100206: Group_002
+    100208: Group_003
+    100210: Group_004
+    100212: Group_005
+    100214: Group_006
+    100216: Group_007
+    100218: Group_008
+    100220: Group_009
+    100222: Group_010
+    100224: Group_011
+    100226: Group_012
+    100228: Group_013
+    100230: Group_014
+    100232: Group_015
+    100234: Group_016
+    100236: Group_017
+    100238: Handle Base_001
+    100240: Handle_001
+    100242: Helix0612_001
+    100244: Helix06_001
+    100246: Helix07_001
+    100248: Helix07_002
+    100250: Kede Ofiso 2_001
+    100252: Layer0_001
+    100254: Line51_001
+    100256: Line52_001
+    100258: Line5320_001
+    100260: Line5320_002
+    100262: Line5320_003
+    100264: Line5320_004
+    100266: Line5320_005
+    100268: Line5320_006
+    100270: Line5320_007
+    100272: Line5320_008
+    100274: Line5320_009
+    100276: Line5320_010
+    100278: Line5320_011
+    100280: Line5320_012
+    100282: Line5320_013
+    100284: Line5320_014
+    100286: Line5320_015
+    100288: Line5320_016
+    100290: Line5320_017
+    100292: Line5320_018
+    100294: Line5320_019
+    100296: Line5320_020
+    100298: Line5320_021
+    100300: Line5320_022
+    100302: Line5320_023
+    100304: Line5320_024
+    100306: Line5320_025
+    100308: Line5320_026
+    100310: Line5320_027
+    100312: Line5320_028
+    100314: Line5320_029
+    100316: Line5320_030
+    100318: Line5320_031
+    100320: Line5320_032
+    100322: Line5320_033
+    100324: Line5320_034
+    100326: Line5320_035
+    100328: Line5320_036
+    100330: Line5320_037
+    100332: Line5320_038
+    100334: Line5320_039
+    100336: Line5320_040
+    100338: Line5320_041
+    100340: Line5320_042
+    100342: Line8232_001
+    100344: Line82_001
+    100346: Line8434_001
+    100348: Line84_001
+    100350: Lubos_001
+    100352: Mesh02_001
+    100354: Mesh02_002
+    100356: Mesh03_001
+    100358: Micro 2015_001
+    100360: Object 10#1_001
+    100362: Object 10_001
+    100364: Object 10_002
+    100366: Object 10_003
+    100368: Object 10_004
+    100370: Object 11_001
+    100372: Object 12_001
+    100374: Object 13_001
+    100376: Object 14_001
+    100378: Object 4#1_001
+    100380: Object 5#1_001
+    100382: Object 6#1_001
+    100384: Object 7_001
+    100386: Object 8_001
+    100388: Object 9_001
+    100390: stalas_001
+    100392: stalas_002
+    100394: tornillo_001
+    100396: tornillo_002
+    100398: tornillo_003
+    100400: tornillo_004
+    100402: tornillo_005
+    100404: Torus09_001
+    100406: Torus09_002
+    100408: Torus09_003
+    100410: Torus09_004
+    100412: Torus09_005
+    100414: Torus09_006
+    100416: Torus09_007
+    100418: Torus09_008
+    100420: Torus09_009
+    100422: Torus09_010
+    100424: Torus09_011
+    100426: Torus09_012
+    100428: Torus09_013
+    100430: Torus09_014
+    100432: Torus09_015
+    100434: Torus09_016
+    100436: Torus09_017
+    100438: Torus09_018
+    100440: Torus09_019
+    100442: Torus09_020
+    100444: Torus09_021
+    100446: Torus09_022
+    100448: Torus09_023
+    100450: Torus09_024
+    100452: Torus09_025
+    100454: Torus09_026
+    100456: Torus09_027
+    100458: Torus09_028
+    100460: Torus09_029
+    100462: Torus09_030
+    100464: Torus09_031
+    100466: Torus09_032
+    100468: Torus09_033
+    100470: Torus09_034
+    100472: Torus09_035
+    100474: Torus09_036
+    100476: Torus09_037
+    100478: Torus09_038
+    100480: Torus09_039
+    100482: Torus09_040
+    100484: Torus09_041
+    100486: Torus09_042
+    100488: vaikas_001
+    100490: //RootNode
+    400000: 3DGeom~1_Defintion_001
+    400002: ChamferBo1_001
+    400004: Colors_001
+    400006: Combilume _001
+    400008: Combilume _002
+    400010: Combilume _003
+    400012: Combilume _004
+    400014: Combilume _005
+    400016: Component#10_001
+    400018: Component#10_002
+    400020: Component#11_001
+    400022: Component#12_001
+    400024: Component#13_001
+    400026: Component#16_001
+    400028: Component#16_002
+    400030: Component#17_001
+    400032: Component#17_002
+    400034: Component#18_001
+    400036: Component#19_001
+    400038: Component#20_001
+    400040: Component#20_002
+    400042: Component#21_001
+    400044: Component#21_002
+    400046: Component#22_001
+    400048: Component#22_002
+    400050: Component#23_001
+    400052: Component#24_001
+    400054: Component#25_001
+    400056: Component#26_001
+    400058: Component#27_001
+    400060: Component#28_001
+    400062: Component#29_001
+    400064: Component#2_001
+    400066: Component#30_001
+    400068: Component#31_001
+    400070: Component#32_001
+    400072: Component#33_001
+    400074: Component#34_001
+    400076: Component#35_001
+    400078: Component#37_001
+    400080: Component#38_001
+    400082: Component#39_001
+    400084: Component#3_001
+    400086: Component#40_001
+    400088: Component#41_001
+    400090: Component#42_001
+    400092: Component#44_001
+    400094: Component#45_001
+    400096: Component#46_001
+    400098: Component#47_001
+    400100: Component#48_001
+    400102: Component#49_001
+    400104: Component#4_001
+    400106: Component#50_001
+    400108: Component#50_002
+    400110: Component#50_003
+    400112: Component#51_001
+    400114: Component#52_001
+    400116: Component#54_001
+    400118: Component#54_002
+    400120: Component#5_001
+    400122: Component#5_002
+    400124: Component#6_001
+    400126: Component#6_002
+    400128: Component#7_001
+    400130: Component#7_002
+    400132: Component#8_001
+    400134: Component#9_001
+    400136: Component#9_002
+    400138: Component#9_003
+    400140: Component#9_004
+    400142: Component#9_005
+    400144: Component_12_001
+    400146: Component_17_001
+    400148: Curtain_L0_001
+    400150: Cylinder10_001
+    400152: Cylinder116_001
+    400154: Cylinder116_002
+    400156: Cylinder116_003
+    400158: Cylinder116_004
+    400160: Cylinder11_001
+    400162: Cylinder12#1_001
+    400164: Cylinder12_001
+    400166: Cylinder12_002
+    400168: Cylinder12_003
+    400170: Cylinder12_004
+    400172: Cylinder13_001
+    400174: Cylinder14_001
+    400176: Cylinder15_001
+    400178: Cylinder16_001
+    400180: Cylinder18_001
+    400182: Cylinder18_002
+    400184: dolce_001
+    400186: dolce_002
+    400188: dolce_003
+    400190: enchufe_001
+    400192: enchufe_002
+    400194: enchufe_003
+    400196: enchufe_004
+    400198: enchufe_005
+    400200: fig_001
+    400202: Frank Lloyd Wrig_001
+    400204: Group_001
+    400206: Group_002
+    400208: Group_003
+    400210: Group_004
+    400212: Group_005
+    400214: Group_006
+    400216: Group_007
+    400218: Group_008
+    400220: Group_009
+    400222: Group_010
+    400224: Group_011
+    400226: Group_012
+    400228: Group_013
+    400230: Group_014
+    400232: Group_015
+    400234: Group_016
+    400236: Group_017
+    400238: Handle Base_001
+    400240: Handle_001
+    400242: Helix0612_001
+    400244: Helix06_001
+    400246: Helix07_001
+    400248: Helix07_002
+    400250: Kede Ofiso 2_001
+    400252: Layer0_001
+    400254: Line51_001
+    400256: Line52_001
+    400258: Line5320_001
+    400260: Line5320_002
+    400262: Line5320_003
+    400264: Line5320_004
+    400266: Line5320_005
+    400268: Line5320_006
+    400270: Line5320_007
+    400272: Line5320_008
+    400274: Line5320_009
+    400276: Line5320_010
+    400278: Line5320_011
+    400280: Line5320_012
+    400282: Line5320_013
+    400284: Line5320_014
+    400286: Line5320_015
+    400288: Line5320_016
+    400290: Line5320_017
+    400292: Line5320_018
+    400294: Line5320_019
+    400296: Line5320_020
+    400298: Line5320_021
+    400300: Line5320_022
+    400302: Line5320_023
+    400304: Line5320_024
+    400306: Line5320_025
+    400308: Line5320_026
+    400310: Line5320_027
+    400312: Line5320_028
+    400314: Line5320_029
+    400316: Line5320_030
+    400318: Line5320_031
+    400320: Line5320_032
+    400322: Line5320_033
+    400324: Line5320_034
+    400326: Line5320_035
+    400328: Line5320_036
+    400330: Line5320_037
+    400332: Line5320_038
+    400334: Line5320_039
+    400336: Line5320_040
+    400338: Line5320_041
+    400340: Line5320_042
+    400342: Line8232_001
+    400344: Line82_001
+    400346: Line8434_001
+    400348: Line84_001
+    400350: Lubos_001
+    400352: Mesh02_001
+    400354: Mesh02_002
+    400356: Mesh03_001
+    400358: Micro 2015_001
+    400360: Object 10#1_001
+    400362: Object 10_001
+    400364: Object 10_002
+    400366: Object 10_003
+    400368: Object 10_004
+    400370: Object 11_001
+    400372: Object 12_001
+    400374: Object 13_001
+    400376: Object 14_001
+    400378: Object 4#1_001
+    400380: Object 5#1_001
+    400382: Object 6#1_001
+    400384: Object 7_001
+    400386: Object 8_001
+    400388: Object 9_001
+    400390: stalas_001
+    400392: stalas_002
+    400394: tornillo_001
+    400396: tornillo_002
+    400398: tornillo_003
+    400400: tornillo_004
+    400402: tornillo_005
+    400404: Torus09_001
+    400406: Torus09_002
+    400408: Torus09_003
+    400410: Torus09_004
+    400412: Torus09_005
+    400414: Torus09_006
+    400416: Torus09_007
+    400418: Torus09_008
+    400420: Torus09_009
+    400422: Torus09_010
+    400424: Torus09_011
+    400426: Torus09_012
+    400428: Torus09_013
+    400430: Torus09_014
+    400432: Torus09_015
+    400434: Torus09_016
+    400436: Torus09_017
+    400438: Torus09_018
+    400440: Torus09_019
+    400442: Torus09_020
+    400444: Torus09_021
+    400446: Torus09_022
+    400448: Torus09_023
+    400450: Torus09_024
+    400452: Torus09_025
+    400454: Torus09_026
+    400456: Torus09_027
+    400458: Torus09_028
+    400460: Torus09_029
+    400462: Torus09_030
+    400464: Torus09_031
+    400466: Torus09_032
+    400468: Torus09_033
+    400470: Torus09_034
+    400472: Torus09_035
+    400474: Torus09_036
+    400476: Torus09_037
+    400478: Torus09_038
+    400480: Torus09_039
+    400482: Torus09_040
+    400484: Torus09_041
+    400486: Torus09_042
+    400488: vaikas_001
+    400490: //RootNode
+    2100000: skp_front_default
+    2100002: Lubos
+    2100004: Lubu ledukai
+    2100006: Lango remas1
+    2100008: Kopieciu burbuliukai balti
+    2100010: Kopieciu burbuliukai geltoni
+    2100012: Kopieciu laidas
+    2100014: Lubu spalva
+    2100016: Lubu ledas
+    2100018: Lubines lempos korpusas
+    2100020: Lubines lempos sviesa
+    2100022: Lempos korpusas
+    2100024: Lempos sviesa
+    2100026: Duru korpusas
+    2100028: Duru cromas
+    2100030: Duru medis
+    2100032: Uzuolaida dienine
+    2100034: Uzuolaidos tekstile
+    2100036: Baldo spalva balta
+    2100038: Lipdukas 2
+    2100040: Lipdukas 1
+    2100042: Pagalves rozine
+    2100044: Pagalve didesnes
+    2100046: Pagalve iki menulio
+    2100048: Lovos metalas
+    2100050: Lovos anklode 1
+    2100052: Lovos anklode 2
+    2100054: Pagalve zalsva
+    2100056: Lentynos 1
+    2100058: Baldo juoda
+    2100060: Zemelapis
+    2100062: Ratukai
+    2100064: Veidrodis
+    2100066: Lempos remas
+    2100068: Lempos medziaga
+    2100070: Loptopo korpusas
+    2100072: Loptopo LOGO
+    2100074: Dekoracijos stiklas
+    2100076: Dekoracijos keramika
+    2100078: Material10
+    2100080: Material8
+    2100082: '[Color_000]1'
+    2100084: Color_D05
+    2100086: Material17
+    2100088: Color_I10
+    2100090: Material22
+    2100092: Material23
+    2100094: Material6
+    2100096: Material20
+    2100098: Material11
+    2100100: Material12
+    2100102: Material15
+    2100104: Material9
+    2100106: Material24
+    2100108: Material25
+    2100110: black
+    2100112: Material27
+    2100114: Material26
+    2100116: Material21
+    2100118: _Charcoal_
+    2100120: Material18
+    2100122: Material28
+    2100124: Material1
+    2100126: Material19
+    2100128: Material16
+    2100130: Material14
+    2100132: Material13
+    2100134: Material35
+    2100136: Color_A06
+    2100138: Material29
+    2100140: Material30
+    2100142: Material31
+    2100144: Color_B02
+    2100146: Material34
+    2100148: Material32
+    2100150: Material33
+    2100152: Kedes cromas
+    2100154: SketchUV Texture
+    2100156: Sienos
+    2100158: Sienu 3
+    2100160: Sienos 2
+    2100162: Parketas
+    2100164: Vaiko kambarys 2 (3)
+    2100166: Tapetas geltonas
+    2100168: Piesimo_lenta
+    2100170: ^C31BA3523E4EFF617B1080707A25B5F2C5835CE97BD3CBCA16^pimgpsh_fullsize_distr
+    2100172: ^A74732048802C334F4898AF0D29C0D7AF612FDECB62855F317^pimgpsh_fullsize_distr
+    2100174: Rozetes 2
+    2100176: Rozetes
+    2100178: Lango remas
+    2100180: Stiklas
+    2300000: 3DGeom~1_Defintion_001
+    2300002: ChamferBo1_001
+    2300004: Colors_001
+    2300006: Combilume _001
+    2300008: Combilume _002
+    2300010: Combilume _003
+    2300012: Combilume _004
+    2300014: Combilume _005
+    2300016: Component#10_001
+    2300018: Component#11_001
+    2300020: Component#12_001
+    2300022: Component#13_001
+    2300024: Component#16_001
+    2300026: Component#17_001
+    2300028: Component#18_001
+    2300030: Component#19_001
+    2300032: Component#20_001
+    2300034: Component#21_001
+    2300036: Component#22_001
+    2300038: Component#23_001
+    2300040: Component#24_001
+    2300042: Component#25_001
+    2300044: Component#26_001
+    2300046: Component#27_001
+    2300048: Component#28_001
+    2300050: Component#29_001
+    2300052: Component#2_001
+    2300054: Component#30_001
+    2300056: Component#31_001
+    2300058: Component#32_001
+    2300060: Component#33_001
+    2300062: Component#34_001
+    2300064: Component#35_001
+    2300066: Component#37_001
+    2300068: Component#38_001
+    2300070: Component#39_001
+    2300072: Component#3_001
+    2300074: Component#40_001
+    2300076: Component#41_001
+    2300078: Component#42_001
+    2300080: Component#44_001
+    2300082: Component#45_001
+    2300084: Component#46_001
+    2300086: Component#47_001
+    2300088: Component#48_001
+    2300090: Component#49_001
+    2300092: Component#4_001
+    2300094: Component#50_001
+    2300096: Component#50_002
+    2300098: Component#50_003
+    2300100: Component#51_001
+    2300102: Component#52_001
+    2300104: Component#54_001
+    2300106: Component#5_001
+    2300108: Component#6_001
+    2300110: Component#7_001
+    2300112: Component#8_001
+    2300114: Component#9_001
+    2300116: Component#9_002
+    2300118: Component#9_003
+    2300120: Component#9_004
+    2300122: Component#9_005
+    2300124: Component_12_001
+    2300126: Component_17_001
+    2300128: Curtain_L0_001
+    2300130: Cylinder10_001
+    2300132: Cylinder116_001
+    2300134: Cylinder116_002
+    2300136: Cylinder116_003
+    2300138: Cylinder116_004
+    2300140: Cylinder11_001
+    2300142: Cylinder12#1_001
+    2300144: Cylinder12_001
+    2300146: Cylinder12_002
+    2300148: Cylinder12_003
+    2300150: Cylinder12_004
+    2300152: Cylinder13_001
+    2300154: Cylinder14_001
+    2300156: Cylinder15_001
+    2300158: Cylinder16_001
+    2300160: Cylinder18_001
+    2300162: dolce_001
+    2300164: enchufe_001
+    2300166: enchufe_002
+    2300168: enchufe_003
+    2300170: enchufe_004
+    2300172: enchufe_005
+    2300174: fig_001
+    2300176: Frank Lloyd Wrig_001
+    2300178: Group_001
+    2300180: Group_002
+    2300182: Group_003
+    2300184: Group_005
+    2300186: Group_006
+    2300188: Group_007
+    2300190: Group_008
+    2300192: Group_009
+    2300194: Group_010
+    2300196: Group_011
+    2300198: Group_012
+    2300200: Group_013
+    2300202: Group_014
+    2300204: Group_015
+    2300206: Group_016
+    2300208: Group_017
+    2300210: Handle Base_001
+    2300212: Handle_001
+    2300214: Helix0612_001
+    2300216: Helix06_001
+    2300218: Helix07_001
+    2300220: Helix07_002
+    2300222: Kede Ofiso 2_001
+    2300224: Line51_001
+    2300226: Line52_001
+    2300228: Line5320_001
+    2300230: Line5320_002
+    2300232: Line5320_003
+    2300234: Line5320_004
+    2300236: Line5320_005
+    2300238: Line5320_006
+    2300240: Line5320_007
+    2300242: Line5320_008
+    2300244: Line5320_009
+    2300246: Line5320_010
+    2300248: Line5320_011
+    2300250: Line5320_012
+    2300252: Line5320_013
+    2300254: Line5320_014
+    2300256: Line5320_015
+    2300258: Line5320_016
+    2300260: Line5320_017
+    2300262: Line5320_018
+    2300264: Line5320_019
+    2300266: Line5320_020
+    2300268: Line5320_021
+    2300270: Line5320_022
+    2300272: Line5320_023
+    2300274: Line5320_024
+    2300276: Line5320_025
+    2300278: Line5320_026
+    2300280: Line5320_027
+    2300282: Line5320_028
+    2300284: Line5320_029
+    2300286: Line5320_030
+    2300288: Line5320_031
+    2300290: Line5320_032
+    2300292: Line5320_033
+    2300294: Line5320_034
+    2300296: Line5320_035
+    2300298: Line5320_036
+    2300300: Line5320_037
+    2300302: Line5320_038
+    2300304: Line5320_039
+    2300306: Line5320_040
+    2300308: Line5320_041
+    2300310: Line5320_042
+    2300312: Line8232_001
+    2300314: Line82_001
+    2300316: Line8434_001
+    2300318: Line84_001
+    2300320: Mesh02_001
+    2300322: Mesh03_001
+    2300324: Micro 2015_001
+    2300326: Object 10#1_001
+    2300328: Object 10_001
+    2300330: Object 10_002
+    2300332: Object 10_003
+    2300334: Object 10_004
+    2300336: Object 11_001
+    2300338: Object 12_001
+    2300340: Object 13_001
+    2300342: Object 14_001
+    2300344: Object 4#1_001
+    2300346: Object 5#1_001
+    2300348: Object 6#1_001
+    2300350: Object 7_001
+    2300352: Object 8_001
+    2300354: Object 9_001
+    2300356: stalas_001
+    2300358: tornillo_001
+    2300360: tornillo_002
+    2300362: tornillo_003
+    2300364: tornillo_004
+    2300366: tornillo_005
+    2300368: Torus09_001
+    2300370: Torus09_002
+    2300372: Torus09_003
+    2300374: Torus09_004
+    2300376: Torus09_005
+    2300378: Torus09_006
+    2300380: Torus09_007
+    2300382: Torus09_008
+    2300384: Torus09_009
+    2300386: Torus09_010
+    2300388: Torus09_011
+    2300390: Torus09_012
+    2300392: Torus09_013
+    2300394: Torus09_014
+    2300396: Torus09_015
+    2300398: Torus09_016
+    2300400: Torus09_017
+    2300402: Torus09_018
+    2300404: Torus09_019
+    2300406: Torus09_020
+    2300408: Torus09_021
+    2300410: Torus09_022
+    2300412: Torus09_023
+    2300414: Torus09_024
+    2300416: Torus09_025
+    2300418: Torus09_026
+    2300420: Torus09_027
+    2300422: Torus09_028
+    2300424: Torus09_029
+    2300426: Torus09_030
+    2300428: Torus09_031
+    2300430: Torus09_032
+    2300432: Torus09_033
+    2300434: Torus09_034
+    2300436: Torus09_035
+    2300438: Torus09_036
+    2300440: Torus09_037
+    2300442: Torus09_038
+    2300444: Torus09_039
+    2300446: Torus09_040
+    2300448: Torus09_041
+    2300450: Torus09_042
+    3300000: 3DGeom~1_Defintion_001
+    3300002: ChamferBo1_001
+    3300004: Colors_001
+    3300006: Combilume _001
+    3300008: Combilume _002
+    3300010: Combilume _003
+    3300012: Combilume _004
+    3300014: Combilume _005
+    3300016: Component#10_001
+    3300018: Component#11_001
+    3300020: Component#12_001
+    3300022: Component#13_001
+    3300024: Component#16_001
+    3300026: Component#17_001
+    3300028: Component#18_001
+    3300030: Component#19_001
+    3300032: Component#20_001
+    3300034: Component#21_001
+    3300036: Component#22_001
+    3300038: Component#23_001
+    3300040: Component#24_001
+    3300042: Component#25_001
+    3300044: Component#26_001
+    3300046: Component#27_001
+    3300048: Component#28_001
+    3300050: Component#29_001
+    3300052: Component#2_001
+    3300054: Component#30_001
+    3300056: Component#31_001
+    3300058: Component#32_001
+    3300060: Component#33_001
+    3300062: Component#34_001
+    3300064: Component#35_001
+    3300066: Component#37_001
+    3300068: Component#38_001
+    3300070: Component#39_001
+    3300072: Component#3_001
+    3300074: Component#40_001
+    3300076: Component#41_001
+    3300078: Component#42_001
+    3300080: Component#44_001
+    3300082: Component#45_001
+    3300084: Component#46_001
+    3300086: Component#47_001
+    3300088: Component#48_001
+    3300090: Component#49_001
+    3300092: Component#4_001
+    3300094: Component#50_001
+    3300096: Component#50_002
+    3300098: Component#50_003
+    3300100: Component#51_001
+    3300102: Component#52_001
+    3300104: Component#54_001
+    3300106: Component#5_001
+    3300108: Component#6_001
+    3300110: Component#7_001
+    3300112: Component#8_001
+    3300114: Component#9_001
+    3300116: Component#9_002
+    3300118: Component#9_003
+    3300120: Component#9_004
+    3300122: Component#9_005
+    3300124: Component_12_001
+    3300126: Component_17_001
+    3300128: Curtain_L0_001
+    3300130: Cylinder10_001
+    3300132: Cylinder116_001
+    3300134: Cylinder116_002
+    3300136: Cylinder116_003
+    3300138: Cylinder116_004
+    3300140: Cylinder11_001
+    3300142: Cylinder12#1_001
+    3300144: Cylinder12_001
+    3300146: Cylinder12_002
+    3300148: Cylinder12_003
+    3300150: Cylinder12_004
+    3300152: Cylinder13_001
+    3300154: Cylinder14_001
+    3300156: Cylinder15_001
+    3300158: Cylinder16_001
+    3300160: Cylinder18_001
+    3300162: dolce_001
+    3300164: enchufe_001
+    3300166: enchufe_002
+    3300168: enchufe_003
+    3300170: enchufe_004
+    3300172: enchufe_005
+    3300174: fig_001
+    3300176: Frank Lloyd Wrig_001
+    3300178: Group_001
+    3300180: Group_002
+    3300182: Group_003
+    3300184: Group_005
+    3300186: Group_006
+    3300188: Group_007
+    3300190: Group_008
+    3300192: Group_009
+    3300194: Group_010
+    3300196: Group_011
+    3300198: Group_012
+    3300200: Group_013
+    3300202: Group_014
+    3300204: Group_015
+    3300206: Group_016
+    3300208: Group_017
+    3300210: Handle Base_001
+    3300212: Handle_001
+    3300214: Helix0612_001
+    3300216: Helix06_001
+    3300218: Helix07_001
+    3300220: Helix07_002
+    3300222: Kede Ofiso 2_001
+    3300224: Line51_001
+    3300226: Line52_001
+    3300228: Line5320_001
+    3300230: Line5320_002
+    3300232: Line5320_003
+    3300234: Line5320_004
+    3300236: Line5320_005
+    3300238: Line5320_006
+    3300240: Line5320_007
+    3300242: Line5320_008
+    3300244: Line5320_009
+    3300246: Line5320_010
+    3300248: Line5320_011
+    3300250: Line5320_012
+    3300252: Line5320_013
+    3300254: Line5320_014
+    3300256: Line5320_015
+    3300258: Line5320_016
+    3300260: Line5320_017
+    3300262: Line5320_018
+    3300264: Line5320_019
+    3300266: Line5320_020
+    3300268: Line5320_021
+    3300270: Line5320_022
+    3300272: Line5320_023
+    3300274: Line5320_024
+    3300276: Line5320_025
+    3300278: Line5320_026
+    3300280: Line5320_027
+    3300282: Line5320_028
+    3300284: Line5320_029
+    3300286: Line5320_030
+    3300288: Line5320_031
+    3300290: Line5320_032
+    3300292: Line5320_033
+    3300294: Line5320_034
+    3300296: Line5320_035
+    3300298: Line5320_036
+    3300300: Line5320_037
+    3300302: Line5320_038
+    3300304: Line5320_039
+    3300306: Line5320_040
+    3300308: Line5320_041
+    3300310: Line5320_042
+    3300312: Line8232_001
+    3300314: Line82_001
+    3300316: Line8434_001
+    3300318: Line84_001
+    3300320: Mesh02_001
+    3300322: Mesh03_001
+    3300324: Micro 2015_001
+    3300326: Object 10#1_001
+    3300328: Object 10_001
+    3300330: Object 10_002
+    3300332: Object 10_003
+    3300334: Object 10_004
+    3300336: Object 11_001
+    3300338: Object 12_001
+    3300340: Object 13_001
+    3300342: Object 14_001
+    3300344: Object 4#1_001
+    3300346: Object 5#1_001
+    3300348: Object 6#1_001
+    3300350: Object 7_001
+    3300352: Object 8_001
+    3300354: Object 9_001
+    3300356: stalas_001
+    3300358: tornillo_001
+    3300360: tornillo_002
+    3300362: tornillo_003
+    3300364: tornillo_004
+    3300366: tornillo_005
+    3300368: Torus09_001
+    3300370: Torus09_002
+    3300372: Torus09_003
+    3300374: Torus09_004
+    3300376: Torus09_005
+    3300378: Torus09_006
+    3300380: Torus09_007
+    3300382: Torus09_008
+    3300384: Torus09_009
+    3300386: Torus09_010
+    3300388: Torus09_011
+    3300390: Torus09_012
+    3300392: Torus09_013
+    3300394: Torus09_014
+    3300396: Torus09_015
+    3300398: Torus09_016
+    3300400: Torus09_017
+    3300402: Torus09_018
+    3300404: Torus09_019
+    3300406: Torus09_020
+    3300408: Torus09_021
+    3300410: Torus09_022
+    3300412: Torus09_023
+    3300414: Torus09_024
+    3300416: Torus09_025
+    3300418: Torus09_026
+    3300420: Torus09_027
+    3300422: Torus09_028
+    3300424: Torus09_029
+    3300426: Torus09_030
+    3300428: Torus09_031
+    3300430: Torus09_032
+    3300432: Torus09_033
+    3300434: Torus09_034
+    3300436: Torus09_035
+    3300438: Torus09_036
+    3300440: Torus09_037
+    3300442: Torus09_038
+    3300444: Torus09_039
+    3300446: Torus09_040
+    3300448: Torus09_041
+    3300450: Torus09_042
+    4300000: Colors_001
+    4300002: Group_001
+    4300004: Component#54_001
+    4300006: Object 10#1_001
+    4300008: Object 12_001
+    4300010: Object 13_001
+    4300012: Object 11_001
+    4300014: Object 4#1_001
+    4300016: Object 14_001
+    4300018: Object 9_001
+    4300020: Object 7_001
+    4300022: Object 8_001
+    4300024: Object 5#1_001
+    4300026: Object 6#1_001
+    4300028: Group_002
+    4300030: Combilume _001
+    4300032: Combilume _002
+    4300034: Combilume _003
+    4300036: Combilume _004
+    4300038: Combilume _005
+    4300040: Micro 2015_001
+    4300042: Component#2_001
+    4300044: dolce_001
+    4300046: Component#3_001
+    4300048: Component#4_001
+    4300050: Component#8_001
+    4300052: Component_17_001
+    4300054: Curtain_L0_001
+    4300056: Component#50_001
+    4300058: Component#50_002
+    4300060: Component#50_003
+    4300062: Component#22_001
+    4300064: Component_12_001
+    4300066: 3DGeom~1_Defintion_001
+    4300068: Component#12_001
+    4300070: Component#11_001
+    4300072: ChamferBo1_001
+    4300074: Helix06_001
+    4300076: Helix0612_001
+    4300078: Helix07_001
+    4300080: Line51_001
+    4300082: Line52_001
+    4300084: Line82_001
+    4300086: Line8232_001
+    4300088: Line84_001
+    4300090: Line8434_001
+    4300092: Helix07_002
+    4300094: Cylinder12_001
+    4300096: Cylinder116_001
+    4300098: Cylinder12_002
+    4300100: Cylinder116_002
+    4300102: Cylinder116_003
+    4300104: Cylinder12_003
+    4300106: Cylinder12_004
+    4300108: Line5320_001
+    4300110: Torus09_001
+    4300112: Line5320_002
+    4300114: Torus09_002
+    4300116: Torus09_003
+    4300118: Line5320_003
+    4300120: Line5320_004
+    4300122: Torus09_004
+    4300124: Line5320_005
+    4300126: Torus09_005
+    4300128: Torus09_006
+    4300130: Line5320_006
+    4300132: Torus09_007
+    4300134: Line5320_007
+    4300136: Torus09_008
+    4300138: Line5320_008
+    4300140: Line5320_009
+    4300142: Torus09_009
+    4300144: Torus09_010
+    4300146: Line5320_010
+    4300148: Line5320_011
+    4300150: Torus09_011
+    4300152: Torus09_012
+    4300154: Line5320_012
+    4300156: Line5320_013
+    4300158: Torus09_013
+    4300160: Torus09_014
+    4300162: Line5320_014
+    4300164: Torus09_015
+    4300166: Line5320_015
+    4300168: Line5320_016
+    4300170: Torus09_016
+    4300172: Line5320_017
+    4300174: Torus09_017
+    4300176: Torus09_018
+    4300178: Line5320_018
+    4300180: Line5320_019
+    4300182: Torus09_019
+    4300184: Line5320_020
+    4300186: Torus09_020
+    4300188: Torus09_021
+    4300190: Line5320_021
+    4300192: Cylinder116_004
+    4300194: Line5320_022
+    4300196: Torus09_022
+    4300198: Torus09_023
+    4300200: Line5320_023
+    4300202: Torus09_024
+    4300204: Line5320_024
+    4300206: Line5320_025
+    4300208: Torus09_025
+    4300210: Line5320_026
+    4300212: Torus09_026
+    4300214: Line5320_027
+    4300216: Torus09_027
+    4300218: Torus09_028
+    4300220: Line5320_028
+    4300222: Line5320_029
+    4300224: Torus09_029
+    4300226: Line5320_030
+    4300228: Torus09_030
+    4300230: Line5320_031
+    4300232: Torus09_031
+    4300234: Line5320_032
+    4300236: Torus09_032
+    4300238: Line5320_033
+    4300240: Torus09_033
+    4300242: Line5320_034
+    4300244: Torus09_034
+    4300246: Line5320_035
+    4300248: Torus09_035
+    4300250: Torus09_036
+    4300252: Line5320_036
+    4300254: Line5320_037
+    4300256: Torus09_037
+    4300258: Torus09_038
+    4300260: Line5320_038
+    4300262: Torus09_039
+    4300264: Line5320_039
+    4300266: Line5320_040
+    4300268: Torus09_040
+    4300270: Line5320_041
+    4300272: Torus09_041
+    4300274: Torus09_042
+    4300276: Line5320_042
+    4300278: Component#6_001
+    4300280: Component#10_001
+    4300282: stalas_001
+    4300284: Component#19_001
+    4300286: Component#18_001
+    4300288: Component#17_001
+    4300290: Object 10_001
+    4300292: Object 10_002
+    4300294: Object 10_003
+    4300296: Object 10_004
+    4300298: Component#21_001
+    4300300: Component#16_001
+    4300302: Component#20_001
+    4300304: Cylinder11_001
+    4300306: Cylinder12#1_001
+    4300308: Cylinder13_001
+    4300310: Cylinder14_001
+    4300312: Cylinder15_001
+    4300314: Cylinder10_001
+    4300316: Cylinder16_001
+    4300318: Cylinder18_001
+    4300320: Group_003
+    4300322: Mesh02_001
+    4300324: Mesh03_001
+    4300326: Group_005
+    4300328: fig_001
+    4300330: Component#47_001
+    4300332: Component#48_001
+    4300334: Component#51_001
+    4300336: Component#52_001
+    4300338: Component#28_001
+    4300340: Component#30_001
+    4300342: Component#25_001
+    4300344: Component#29_001
+    4300346: Component#23_001
+    4300348: Component#41_001
+    4300350: Component#31_001
+    4300352: Component#32_001
+    4300354: Component#33_001
+    4300356: Component#49_001
+    4300358: Component#45_001
+    4300360: Component#34_001
+    4300362: Component#46_001
+    4300364: Component#24_001
+    4300366: Component#27_001
+    4300368: Component#44_001
+    4300370: Component#13_001
+    4300372: Component#26_001
+    4300374: Component#42_001
+    4300376: Frank Lloyd Wrig_001
+    4300378: Component#35_001
+    4300380: Component#37_001
+    4300382: Component#38_001
+    4300384: Component#40_001
+    4300386: Component#39_001
+    4300388: Kede Ofiso 2_001
+    4300390: Group_006
+    4300392: Group_007
+    4300394: Group_008
+    4300396: Group_009
+    4300398: Group_010
+    4300400: Group_011
+    4300402: Group_012
+    4300404: Group_013
+    4300406: Component#5_001
+    4300408: Group_014
+    4300410: Group_015
+    4300412: Group_016
+    4300414: Group_017
+    4300416: enchufe_001
+    4300418: Component#9_001
+    4300420: tornillo_001
+    4300422: enchufe_002
+    4300424: Component#9_002
+    4300426: tornillo_002
+    4300428: enchufe_003
+    4300430: Component#9_003
+    4300432: tornillo_003
+    4300434: enchufe_004
+    4300436: Component#9_004
+    4300438: tornillo_004
+    4300440: Component#7_001
+    4300442: Handle Base_001
+    4300444: Handle_001
+    4300446: enchufe_005
+    4300448: Component#9_005
+    4300450: tornillo_005
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
